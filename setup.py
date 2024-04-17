@@ -10,6 +10,7 @@ setup(
                       "pypdf2",
                       "langchain",
                       "python-dotenv",
-                      "chroma",
-                      "huggingface_hub"]
+                      "chromadb",
+                      "huggingface_hub",
+                      "sentence-transformers"]
 )
