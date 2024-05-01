@@ -14,3 +14,6 @@
     * streamlit run app.py --server.port 8080
 - Open http://localhost:8080/ on your favorite browser
     * Upload any number of pdf files and ask question related to that
+ 
+### Note: Additional Information
+![Screenshot 2024-05-01 164622](https://github.com/ThirdEyeInfo/multi-pdf-reader/assets/93641638/69012354-014a-4e26-b6e8-e7aff75b443f)
